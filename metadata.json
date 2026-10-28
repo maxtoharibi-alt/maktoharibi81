@@ -1,0 +1,8 @@
+{
+  "name": "RPL (RPM) — SMPN 53 Kota Bekasi",
+  "description": "Solusi cerdas penyusunan RPL Bimbingan dan Konseling berbasis Pembelajaran Mendalam untuk SMP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
